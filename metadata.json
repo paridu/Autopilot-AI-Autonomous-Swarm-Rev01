@@ -1,0 +1,7 @@
+{
+  "name": "Autopilot AI: Autonomous Swarm Rev01",
+  "description": "A fully autonomous AI business factory powered by a 20-agent swarm that plans, builds, and evolves businesses without human intervention.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
